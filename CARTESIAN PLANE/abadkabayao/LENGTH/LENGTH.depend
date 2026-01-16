@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1762997495 source:c:\users\user\code blocks project\dollar to peso conversion\cartesian plane\abadkabayao\length\length.cpp
+	"length.h"
+	<iostream>
+
+1763002265 c:\users\user\code blocks project\dollar to peso conversion\cartesian plane\abadkabayao\length\length.h
+	<iostream>
+	<iomanip>
+
+1763002247 source:c:\users\user\code blocks project\dollar to peso conversion\cartesian plane\abadkabayao\length\main.cpp
+	<iostream>
+	"length.h"
+
